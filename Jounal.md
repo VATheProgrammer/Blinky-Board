@@ -1,8 +1,5 @@
 ```
-DAY 1
-```
-
-```
+**DAY 1(2 hours)**
 Converted the finished schematic into a PCB layout inside EasyEDA
 Designed a custom board outline instead of a plain rectangle, to give the board
 its own shape/personality
@@ -18,10 +15,7 @@ Shipped my project
 ```
 
 ```
-DAY 2(6 months after)
-```
-
-```
+**DAY 2(6 months after)(1 hour)**
 I built it for outpost and it miraculously worked.
 ```
 
