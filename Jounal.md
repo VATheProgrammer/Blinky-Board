@@ -1,0 +1,27 @@
+```
+DAY 1
+```
+
+```
+Converted the finished schematic into a PCB layout inside EasyEDA
+Designed a custom board outline instead of a plain rectangle, to give the board
+its own shape/personality
+Arranged components on the board to keep traces short and avoid overlap
+Routed traces across the board, using the back copper layer and vias where the
+front layer got congested
+Added custom silkscreen art/text to personalize the board face
+Arranged all the placed components before wiring, to make routing wires between
+them easier
+Wired power using GND flags/labels to keep the schematic from turning into a
+mess of long crossing wires
+Shipped my project
+```
+
+```
+DAY 2(6 months after)
+```
+
+```
+I built it for outpost and it miraculously worked.
+```
+
