@@ -10,8 +10,9 @@ Shipped my project
 
 
 
-**DAY 2(6 months after)(1 hour)**
-I built it for outpost and it miraculously worked.
+**DAY 2(7 months after)(1 hour)**  
+I  picked up this scrapped project and built it for Outpost. 
+It miraculously somehow worked.
 I taught myself how to solder using a Youtube tutorial, and caught on very quick.  
 The entire process was really fun.  
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/708d59a5-2a7d-4500-b926-f1913fd42c7c" />
