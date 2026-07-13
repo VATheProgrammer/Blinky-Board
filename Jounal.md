@@ -1,11 +1,13 @@
 PLEASE NOTE THAT DAY 1 IS WRITTEN PURELY OFF OF MEMORY  
 **DAY 1(2 hours)**  
-Designed a PCB Layout using the tutorial.
+Designed a PCB Layout using the tutorial.  
+<img width="1169" height="828" alt="Schematic_Blinky-Board_2026-07-12" src="https://github.com/user-attachments/assets/a71d01d4-42c9-4b22-b2e4-ef9a79dffcc8" />  
 Converted the finished schematic into a PCB layout inside EasyEDA  
 Designed a christmas tree board outline instead of a plain rectangle, for Christmas theme.  
 Arranged components on the board to keep traces short and avoid overlap  
 Routed traces across the board, using the back copper layer and vias.
 Added custom silkscreen art/text to personalize the board face  
+<img width="365" height="450" alt="PCB_PCB_Blinky-Board_2026-07-12" src="https://github.com/user-attachments/assets/ba797481-0385-43df-8ca0-4a097e5a609d" />  
 Shipped my project  
 
 
