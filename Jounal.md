@@ -1,4 +1,4 @@
-PLEASE NOTE THAT DAY 1 IS WRITTEN PURELY OFF OF MEMORY 
+PLEASE NOTE THAT DAY 1 IS WRITTEN PURELY OFF OF MEMORY  
 **DAY 1(2 hours)**  
 Designed a PCB Layout using the tutorial.
 Converted the finished schematic into a PCB layout inside EasyEDA  
