@@ -1,5 +1,5 @@
-PLEASE NOTE THAT DAY 1 IS WRITTEN PURELY OFF OF MEMORY BECAUSE BLUEPRINT DIDN'T REQUIRE JOURNALS FOR BLINKY BOARDS  
-**DAY 1(2 hours)**  
+## PLEASE NOTE THAT DAY 1 IS WRITTEN PURELY OFF OF MEMORY BECAUSE BLUEPRINT DIDN'T REQUIRE JOURNALS FOR BLINKY BOARDS  
+# DAY 1(2 hours)  
 Designed a PCB Layout using the tutorial.  
 <img width="1169" height="828" alt="Schematic_Blinky-Board_2026-07-12" src="https://github.com/user-attachments/assets/a71d01d4-42c9-4b22-b2e4-ef9a79dffcc8" />  
 Converted the finished schematic into a PCB layout inside EasyEDA  
@@ -12,7 +12,7 @@ Shipped my project
 
 
 
-**DAY 2(7 months after)(1 hour)**  
+# DAY 2(7 months after)(1 hour)  
 I  picked up this scrapped project and built it for Outpost. 
 It miraculously somehow worked.
 I taught myself how to solder using a Youtube tutorial, and caught on very quick.  
