@@ -16,6 +16,8 @@ Shipped my project
 I  picked up this scrapped project and built it for Outpost. 
 It miraculously somehow worked.
 I taught myself how to solder using a Youtube tutorial, and caught on very quick.  
+I actually soldered everything while on FaceTime with my friend as we were dicussing research opportunities together while I was working on this. He found the idea of me struggling with a soldering iron very funny.  
+Once done, I recorded a Youtube video of my project working, and submitted it to Oupost.  
 The entire process was really fun.  
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/708d59a5-2a7d-4500-b926-f1913fd42c7c" />
 
